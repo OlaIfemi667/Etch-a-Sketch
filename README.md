@@ -1,4 +1,4 @@
-Etch-a-Sketch
+*Etch-a-Sketch*
 
 A web-based Etch-a-Sketch project, developed as part of The Odin Project Foundations course. This project reinforces skills in HTML, CSS, and JavaScript by building an interactive drawing app.
 Table of Contents
