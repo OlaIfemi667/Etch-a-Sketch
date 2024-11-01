@@ -1,0 +1,18 @@
+#container{
+    border: 1px solid orange ;
+    height: 600px;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#container div{
+    border: 1px solid;
+    box-sizing: border-box;
+}
+
+#createGrid{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
